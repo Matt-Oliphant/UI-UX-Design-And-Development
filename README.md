@@ -3,6 +3,7 @@
 Included are two projects, each containing an explanation  or justification for design choices and 2-3 wireframes. 
 
 **Project One Details**
+
 Based on this user story:
 
 "As a concerned family member, I want to receive a notification if my relative, who has dementia, walks more than 1,000 steps from home or leaves the stove on for more than 60 minutes so that I can check on their safety."
@@ -16,6 +17,7 @@ Answer or Do the following:
 6) Discuss how your wireframe could be adapted to a touch-based kiosk.
 
 **Project Two Details**
+
 Based on these user stories:
 
 "As a Kiva borrower, I want to access information about Kiva and about borrowing from Kiva with my flip-phone (which is an embedded device), so that I can stay informed, request loans, and track my loan payback process."
