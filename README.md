@@ -1,4 +1,5 @@
-# UI-UX-Design-and-Development
+# UI-UX-Design-And-Development: Course Reflection
+
 Included is two projects, each containing an explaination or justification for design choices and 2-3 wireframes. 
 
 # Project One Details
