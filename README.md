@@ -1,6 +1,6 @@
 # UI-UX-Design-And-Development: Course Reflection
 
-Included is two projects, each containing an explaination or justification for design choices and 2-3 wireframes. 
+Included are two projects, each containing an explanation  or justification for design choices and 2-3 wireframes. 
 
 # Project One Details
 Based on this user story:
@@ -9,7 +9,7 @@ Based on this user story:
 
 Answer or Do the following:
 1) Develop a layout of different screens for your digital wireframe that addresses the goals of the project
-2) Create navigational elements and value-added features in your wirefame.
+2) Create navigational elements and value-added features in your wireframe.
 3) Apply design best practices to your digital wireframe.
 4) Explain the rationale behind your design decisions.
 5) Discuss how your wireframe could be adapted to a digital watch.
@@ -22,7 +22,7 @@ Based on these user stories:
 
 "As a Kiva lender, I want to explore borrower requests, analyze my and others’ lending data, and follow borrower loan payments (in a cloud application) so that I can forecast how I will loan funds and plan the recycling of previous paid funds."
 
-Answer or Do the following:
+Answer or do the following:
 1) Create appropriate features for your digital wireframe to address the goals of the project. 
 2) Create clear navigation and actions for users of your wireframe.
 3) Apply design best practices to your digital wireframe.
